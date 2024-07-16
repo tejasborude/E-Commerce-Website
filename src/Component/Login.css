@@ -1,0 +1,21 @@
+#main{
+    width: 400px;
+    border: 2px solid rgb(233, 231, 231);
+    margin: 0 auto;
+    padding: 20px;
+    margin-top: 150px;
+    text-align: center;
+    background-color: gainsboro;
+    border-radius: 4px;
+}
+.button{
+    padding: 6px;
+    border-radius: 10px;
+    font-weight: 500;
+
+   
+}
+
+button:hover{
+    background-color: gold;
+}
